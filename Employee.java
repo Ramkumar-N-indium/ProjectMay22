@@ -1,5 +1,5 @@
 package basics;
-
+//Employee Records
 public class Employee {
 	String empId;
 	String empName;
