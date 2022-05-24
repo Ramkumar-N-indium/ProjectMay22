@@ -1,5 +1,5 @@
 package basics;
-
+//"main" Employee
 public class Employee {
 	String empId;
 	String empName;
