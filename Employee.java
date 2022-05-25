@@ -6,7 +6,7 @@ public class Employee {
 	int age;
 	float salary;
 	static String companyName="Indium";
-	//employee constructor
+	//create employee constructor
 	public Employee(String empId,String empName,int age,float salary) {  
 		this.empId=empId;
 		this.empName=empName;
